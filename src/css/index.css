@@ -1,0 +1,18 @@
+:root {
+  /* Colors */
+
+  /* Primary */
+
+  -white: hsl(0, 0%, 100%);
+  --black: hsl(0, 0%, 0%);
+  --dark-gray: hsl(0, 0%, 55%);
+  --very-dark-gray: hsl(0, 0%, 41%);
+
+  /* Font size */
+  --font-size: 15px;
+
+  /* Font family */
+  --font-alata: "Alata";
+  --font-family: "Josefin Sans";
+  --alternate-font: sans-serif;
+}
